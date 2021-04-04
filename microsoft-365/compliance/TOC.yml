@@ -847,6 +847,10 @@
       items: 
         - name: Configure IRM to use an on-premises AD RMS server
           href: configure-irm-to-use-an-on-premises-ad-rms-server.md
+- name: Microsoft 365 Compliance Best Practices
+  items:
+    - name: Information Risk Management Reference Architecture
+      href: information-risk-management-reference-architecture.md
 - name: Microsoft 365 enterprise
   href: ../enterprise/index.yml
 - name: Microsoft 365 security
